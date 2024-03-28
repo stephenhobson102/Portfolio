@@ -1,2 +1,0 @@
-# Portfolio
-Responsive Portfolio Website
